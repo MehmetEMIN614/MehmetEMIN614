@@ -1,4 +1,4 @@
-```md
+
 # Hi there, I'm Mehmet Emin 👋
 
 Full Stack Developer focused on building ERP systems, SaaS products, and scalable web applications.
@@ -73,4 +73,3 @@ Full Stack Developer focused on building ERP systems, SaaS products, and scalabl
 ---
 
 > Building software that solves real business problems.
-```
